@@ -5,11 +5,11 @@ Hello, and welcome to my GitHub Profile. I love software. I love the projects I 
 This is my attempt at guiding you through some of the work I have done over the years. I hope you enjoy my work!
 
 ## DPS Telecom
-Short Desc. of Job and constants of the Folder
+Some projects I developed as a Software Engineer at DPS Telecom. I decided to display my work by organizing and processing GIFs of features/dashboards.
 
 https://github.com/LevonAr/DPS-Portfolio
 
 ## Teaching Myself the Basics
-Short Desc. of why I did this and contents of Folder
+Some projects I developed while teaching myself how to program.
 
 https://github.com/LevonAr/Teaching-Myself-the-Basics
