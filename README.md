@@ -4,10 +4,12 @@ Hello, and welcome to my GitHub Profile. I love software. I love the projects I 
 
 This is my attempt at guiding you through some of the work I have done over the years. I hope you enjoy my work!
 
+## DPS Telecom
 Short Desc. of Job and constants of the Folder
 
 https://github.com/LevonAr/DPS-Portfolio
 
+## Teaching Myself the Basics
 Short Desc. of why I did this and contents of Folder
 
 https://github.com/LevonAr/Teaching-Myself-the-Basics
